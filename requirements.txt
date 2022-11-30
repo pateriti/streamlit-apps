@@ -1,0 +1,4 @@
+Flask==1.1.2
+numpy==1.21.5
+tensorflow==2.10.0
+yolov5==6.2.3
