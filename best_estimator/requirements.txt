@@ -1,5 +1,0 @@
-numpy
-flask
-os
-tensorflow
-yolov5
